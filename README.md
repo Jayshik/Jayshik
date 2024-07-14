@@ -7,7 +7,7 @@ Generative AI Engineer with Master's in Data Science and Analytics
 **Natural Language Processing:** RNN, LSTM, GRU <br>
 **AI/ML Techniques:** Embedding Techniques, Generative Models, RAG, Fine-tuning <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://www.linkedin.com/in/jayesh-kaushik/)  
+<a href="http://www.linkedin.com/in/jayesh-kaushik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ### What I've Done:
 - 🚀 **Revolutionized Training Workflows:** At GRAIG, I turned coaching instructions into structured, AI-driven training plans, streamlining processes for athletes and coaches.
