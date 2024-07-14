@@ -7,18 +7,15 @@ Generative AI Engineer with Master's in Data Science and Analytics
 **Natural Language Processing:** RNN, LSTM, GRU <br>
 **AI/ML Techniques:** Embedding Techniques, Generative Models, RAG, Fine-tuning <br>
 
+### What I've Done:
+- 🚀 **Revolutionized Training Workflows:** At GRAIG, I turned coaching instructions into structured, AI-driven training plans, streamlining processes for athletes and coaches.
+- 📊 **Enhanced Performance Insights:** Developed advanced chatbots to summarize complex performance statistics, making data easily accessible and actionable.
+- ⚡ **Instant Analytics:** Created RAG-powered query bots that provide real-time answers on athletes' performances, revolutionizing data accessibility.
 
-<!--
-**Jayshik/Jayshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Journey:
+- 🏆 **Leadership in Data Migration:** Led a Scrum team at Accenture, developing ETL pipelines for seamless Oracle to Salesforce migrations, ensuring data integrity and optimizing execution time by 40%.
+- 📈 **Data-Driven Engagement:** Utilized advanced SQL techniques to analyze and optimize campaign delivery, significantly boosting user engagement.
 
-Here are some ideas to get you started:
+### My Passion:
+I am driven by the potential of AI to create meaningful, impactful solutions. I thrive in environments that challenge me to push the boundaries of technology and contribute to forward-thinking AI projects. Ready to bring my expertise and enthusiasm to innovative AI teams poised to make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
