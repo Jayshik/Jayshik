@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I am JAYESH KAUSHIK 
+Generative AI Engineer with Master's in Data Science and Analytics
 
 <!--
 **Jayshik/Jayshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
