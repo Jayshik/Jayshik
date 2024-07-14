@@ -1,11 +1,11 @@
 ## Hi there 👋, I am JAYESH KAUSHIK 
 Generative AI Engineer with Master's in Data Science and Analytics
 
-**Programming Languages:** Python, SQL
-**Frameworks and Tools:** TensorFlow, PyTorch, LangChain, Streamlit, LlamaIndex
-**ETL Tools:** Informatica Power Center
-**Natural Language Processing:** RNN, LSTM, GRU
-**AI/ML Techniques:** Embedding Techniques, Generative Models, RAG, Fine-tuning
+**Programming Languages:** Python, SQL <br>
+**Frameworks and Tools:** TensorFlow, PyTorch, LangChain, Streamlit, LlamaIndex <br>
+**ETL Tools:** Informatica Power Center <br>
+**Natural Language Processing:** RNN, LSTM, GRU <br>
+**AI/ML Techniques:** Embedding Techniques, Generative Models, RAG, Fine-tuning <br>
 
 
 <!--
