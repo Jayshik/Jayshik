@@ -1,6 +1,14 @@
 ## Hi there 👋, I am JAYESH KAUSHIK 
 Generative AI Engineer with Master's in Data Science and Analytics
 
+
+- **Programming Languages:** Python, SQL
+- **Frameworks and Tools:** TensorFlow, PyTorch, LangChain, Streamlit, LlamaIndex
+- **ETL Tools:** Informatica Power Center
+- **Natural Language Processing:** RNN, LSTM, GRU
+- **AI/ML Techniques:** Embedding Techniques, Generative Models, RAG, Fine-tuning
+
+
 <!--
 **Jayshik/Jayshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
