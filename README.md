@@ -10,7 +10,7 @@ Generative AI Engineer with Master's in Data Science and Analytics
 <a href="http://www.linkedin.com/in/jayesh-kaushik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 ### What I've Done:
-- 🚀 **Revolutionized Training Workflows:** At GRAIG, I turned coaching instructions into structured, AI-driven training plans, streamlining processes for athletes and coaches.
+- 🚀 **Revolutionized Training Workflows:** At VEKTA, I turned coaching instructions into structured, AI-driven training plans, streamlining processes for athletes and coaches.
 - 📊 **Enhanced Performance Insights:** Developed advanced chatbots to summarize complex performance statistics, making data easily accessible and actionable.
 - ⚡ **Instant Analytics:** Created RAG-powered query bots that provide real-time answers on athletes' performances, revolutionizing data accessibility.
 
