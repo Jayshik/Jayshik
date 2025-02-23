@@ -1,23 +1,42 @@
 ## Hi there 👋, I am JAYESH KAUSHIK 
-Generative AI Engineer with Master's in Data Science and Analytics
+# 🚀 Data Engineer | Cloud & AI-Driven Data Pipelines  
 
-**Programming Languages:** Python, SQL <br>
-**Frameworks and Tools:** TensorFlow, PyTorch, LangChain, Streamlit, LlamaIndex <br>
-**ETL Tools:** Informatica Power Center <br>
-**Natural Language Processing:** RNN, LSTM, GRU <br>
-**AI/ML Techniques:** Embedding Techniques, Generative Models, RAG, Fine-tuning <br>
+## 🔧 Tech Stack  
+- **Programming:** Python, SQL, PySpark  
+- **Cloud:** Azure (Data Factory, Synapse, Data Lake, Blob Storage, Functions), GCP (BigQuery, Dataflow, Pub/Sub, Cloud Storage)  
+- **Big Data & ETL:** Apache Spark, Kafka, Informatica, Airflow, Hadoop, Databricks  
+- **Databases & Warehousing:** PostgreSQL, Snowflake, MySQL, MongoDB  
+- **DevOps & Automation:** Docker, Kubernetes, CI/CD, Terraform  
 
 <a href="http://www.linkedin.com/in/jayesh-kaushik"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+---
 
-### What I've Done:
-- 🚀 **Revolutionized Training Workflows:** At VEKTA, I turned coaching instructions into structured, AI-driven training plans, streamlining processes for athletes and coaches.
-- 📊 **Enhanced Performance Insights:** Developed advanced chatbots to summarize complex performance statistics, making data easily accessible and actionable.
-- ⚡ **Instant Analytics:** Created RAG-powered query bots that provide real-time answers on athletes' performances, revolutionizing data accessibility.
+## 🏗️ What I Do  
+I specialize in designing **scalable, high-performance ETL pipelines** and optimizing cloud data platforms for **real-time analytics and AI-driven insights**.  
+With hands-on experience in **big data processing, cloud architecture, and workflow automation**, I help businesses **unlock the full potential of their data**.  
 
-### My Journey:
-- 🏆 **Leadership in Data Migration:** Led a Scrum team at Accenture, developing ETL pipelines for seamless Oracle to Salesforce migrations, ensuring data integrity and optimizing execution time by 40%.
-- 📈 **Data-Driven Engagement:** Utilized advanced SQL techniques to analyze and optimize campaign delivery, significantly boosting user engagement.
+---
 
-### My Passion:
-I am driven by the potential of AI to create meaningful, impactful solutions. I thrive in environments that challenge me to push the boundaries of technology and contribute to forward-thinking AI projects. Ready to bring my expertise and enthusiasm to innovative AI teams poised to make a difference.
+## 💡 Recent Projects  
 
+### 🔹 Intelligent Data Pipelines for Generative AI (VEKTA)  
+- Built **end-to-end data pipelines** to transform raw coaching data into structured AI-ready formats, reducing manual effort by **70%**.  
+- Developed **LLM-powered analytics pipelines** to generate automated performance insights for athletes.  
+- Optimized big data workflows using **PySpark & GCP Dataflow**, enabling real-time processing of IoT sensor data.  
+
+### 🔹 Enterprise Data Migration & Optimization (Accenture | Cisco)  
+- Designed ETL pipelines for **Salesforce data migration**, improving execution efficiency by **40%**.  
+- Automated data workflows using **Apache Airflow**, reducing manual processing errors.  
+- Enhanced **SQL-based data transformations**, improving query performance by **30%**.  
+
+### 🔹 Cloud-Based Data Processing (Cognizant)  
+- Developed **PySpark pipelines on Azure Databricks**, reducing batch processing time by **30%**.  
+- Built scalable ETL solutions using **Azure Data Factory & GCP BigQuery** to process large datasets.  
+
+---
+
+## 🎯 My Passion  
+I’m passionate about **building robust, scalable, and cost-efficient data solutions** that power AI-driven applications and business intelligence.  
+I thrive in solving **complex data challenges**, optimizing cloud resources, and enabling **real-time analytics at scale**.  
+
+📩 **Let’s connect and discuss cutting-edge data solutions!**  
