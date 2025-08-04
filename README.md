@@ -26,23 +26,32 @@ I thrive working at the intersection of **big data engineering**, **machine lear
 
 ---
 
-## 💡 Recent Projects  
+## 🌟 Professional Journey & Impact
 
-### 🔹 Intelligent Data Pipelines for Generative AI (VEKTA)  
-- Built **end-to-end data pipelines** to transform raw coaching data into structured AI-ready formats, reducing manual effort by **70%**.  
-- Developed **LLM-powered analytics pipelines** to generate automated performance insights for athletes.  
-- Optimized big data workflows using **PySpark & GCP Dataflow**, enabling real-time processing of IoT sensor data.  
+- 🚀 **Lead Data Engineer @ VEKTA (Apr 2024 – Oct 2024)**
+  - Architected real-time data pipelines capable of AI-powered personalized plan generation and analysis — delivering results in under 2 seconds using Python, SQL, Postgres, AWS Lambda, and Airflow.
+  - Launched an innovative **LLM-driven training planner**, cutting athlete plan creation time by 90%.
+  - Engineered automatic interval detection (96% accuracy), eliminating all manual tagging for 7+ sports.
+  - Released instant AI session summaries — helping coaches cut analysis time by 70% while tripling actionable insights for athletes.
 
-### 🔹 Enterprise Data Migration & Optimization (Accenture | Cisco)  
-- Designed ETL pipelines for **Salesforce data migration**, improving execution efficiency by **40%**.  
-- Automated data workflows using **Apache Airflow**, reducing manual processing errors.  
-- Enhanced **SQL-based data transformations**, improving query performance by **30%**.  
+- 💼 **Data Engineer @ Accenture (Jan 2021 – Aug 2022)**
+  - Led Informatica ETL development for Salesforce integrations, automating territories, opportunities, accounts, and user management.
+  - Proactively built alerting and error-recovery (ServiceNow, Jira), slashing incident time by 60% and strengthening data quality.
+  - Collaborated closely with business owners and agile teams to improve and industrialize core CRM workflows.
 
-### 🔹 Cloud-Based Data Processing (Cognizant)  
-- Developed **PySpark pipelines on Azure Databricks**, reducing batch processing time by **30%**.  
-- Built scalable ETL solutions using **Azure Data Factory & GCP BigQuery** to process large datasets.  
+- 🎓 **Data Engineer Intern @ Cognizant (Dec 2019 – Jan 2021)**
+  - Immersive hands-on upskilling: Python, SQL, PySpark, AWS (S3, Lambda), plus real-world tools like Airflow, Kafka, and Docker.
+  - Developed PySpark batch pipelines on Azure Databricks (30% faster processing).
+  - Supported production data pipelines — validating, monitoring, and rapidly resolving operational issues.
 
 ---
+
+**Key Takeaway:**  
+At every step, I blend automation-first engineering, modern cloud architecture, and a passion for AI/data innovation — driving robust, scalable, and business-critical analytics solutions.
+
+---
+
+
 
 ## 🎯 My Passion  
 I’m passionate about **building robust, scalable, and cost-efficient data solutions** that power AI-driven applications and business intelligence.  
