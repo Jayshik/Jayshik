@@ -3,16 +3,6 @@
 ## 🚀 Data Engineer | AI & Cloud Data Enthusiast  
 
 
-[![Python](https://img.shields.io/badge/-Python-392F2E?style=flat&logo=python&logoColor=FFE873)](https://www.python.org/)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Spark](https://img.shields.io/badge/-Apache_Spark-6F2B91?style=flat&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat&logo=ApacheAirflow&logoColor=white)](https://airflow.apache.org/)
-[![Kafka](https://img.shields.io/badge/-Apache_Kafka-E97D02?style=flat&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![Docker](https://img.shields.io/badge/-Docker-1C6AC9?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/-Terraform-5F43E7?style=flat&logo=terraform&logoColor=white)](https://terraform.io/)
-
 ---
 
 ## 🏗️ What I Do   
@@ -30,7 +20,7 @@ I thrive working at the intersection of **big data engineering**, **machine lear
 | Programming                 | Cloud Platforms           | Big Data & ETL Tools                          | Databases & Warehousing                | DevOps & Automation                                  |
 |----------------------------|--------------------------|----------------------------------------------|--------------------------------------|-----------------------------------------------------|
 | [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)](https://www.python.org/) | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/) | [![Apache Spark](https://img.shields.io/badge/Apache_Spark-6F2B91?style=flat&logo=apache-spark&logoColor=white)](https://spark.apache.org/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) |
-| [![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) | [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) | [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-E97D02?style=flat&logo=apachekafka&logoColor=white)](https://kafka.apache.org/) | [![Snowflake](https://img.shields.io/badge/Snowflake-4D99B6?style=flat&logo=snowflake&logoColor=white)](https://snowflake.com/) | [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/) |
+| [![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) | [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/) | [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-E97D02?style=flat&logo=apachekafka&logoColor=white)](https://kafka.apache.org/) | [![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/redshift/) | [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/) |
 | [![PySpark](https://img.shields.io/badge/PySpark-FF6E1A?style=flat&logo=apache-spark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/) |                          | [![Informatica](https://img.shields.io/badge/Informatica-FF6E00?style=flat&logo=informatica&logoColor=white)](https://www.informatica.com/) | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) | [![Terraform](https://img.shields.io/badge/Terraform-484848?style=flat&logo=terraform&logoColor=white)](https://terraform.io/) |
 |                            |                          | [![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/) | [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) | [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) |
 
