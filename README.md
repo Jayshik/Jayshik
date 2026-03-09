@@ -79,61 +79,69 @@
 
 ## `> experience --log`
 
-<details>
-<summary><b>🚀 Data & AI Engineer — Vekta, Paris</b> &nbsp;|&nbsp; Apr 2024 – Oct 2024</summary>
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  DAG: jayesh_narayana_reddy    | SCHEDULE: @career    | 🟢 SUCCESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<br>
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  TASK: first_role                                [✅ COMPLETE]  │
+  │  ☁️  Data Engineer (AWS) · Cognizant · India                    │
+  │  Dec 2019 ──────────────────────────────────► Jan 2021         │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  Stack    →  AWS Glue · PySpark · S3 · EMR · Redshift · Airflow │
+  │  Built    →  ETL/ELT pipelines · 5+ sources → centralized       │
+  │             Data Lake on AWS                                    │
+  │  Scale    →  2TB+ raw data processed daily on AWS EMR           │
+  │  Perf     →  +30% pipeline speed · optimized partitioning       │
+  │  Cost     →  -25% cloud infrastructure spend                    │
+  │  Uptime   →  99.5% pipeline reliability via Airflow DAGs        │
+  └───────────────────────────┬─────────────────────────────────────┘
+                              │
+                              ▼
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  TASK: scale_enterprise                          [✅ COMPLETE]  │
+  │  💼  Data Engineer · Accenture · India                          │
+  │  Jan 2021 ──────────────────────────────────► Aug 2022         │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  Stack    →  Informatica PowerCenter · Salesforce API           │
+  │             Jira · ServiceNow · Agile/Scrum                     │
+  │  Built    →  End-to-end ETL · Cisco product data → Salesforce   │
+  │  Scale    →  1M+ records · 99% accuracy · 500+ users automated  │
+  │  Impact   →  100% manual CRM entry eliminated                   │
+  │  Ops      →  -60% incident resolution · -40% production failures│
+  │  Team     →  Cross-functional squad of 8 engineers              │
+  └───────────────────────────┬─────────────────────────────────────┘
+                              │
+                              ▼
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  TASK: ai_data_engineering                       [✅ COMPLETE]  │
+  │  🚀  Data & AI Engineer · Vekta · Paris, France 🇫🇷             │
+  │  Apr 2024 ──────────────────────────────────► Oct 2024         │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  Stack    →  Python · Apache Airflow · AWS Lambda · S3          │
+  │             LangChain · Claude API · ML models · PostgreSQL     │
+  │  Built    →  Real-time AI pipelines · time-series workout data  │
+  │  Scale    →  10,000+ training sessions/day · sub-2s latency     │
+  │  LLM      →  Training Plan Generator → -90% planning time       │
+  │  ML       →  Interval Detection → 96% accuracy · 7+ sport types │
+  │  AI       →  Session Summaries → -70% coach time · insights ×3  │
+  └───────────────────────────┬─────────────────────────────────────┘
+                              │
+                              ▼
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  TASK: next_mission                              [🟢 RUNNING]  │
+  │  📍 Paris, France · Available Immediately                       │
+  │  🎯 Target: Data Engineer / Big Data Engineer                   │
+  │  ⚡ Stack: AWS · PySpark · Airflow · Spark · Python · SQL       │
+  └─────────────────────────────────────────────────────────────────┘
 
-> *Sports tech startup — building AI-powered training intelligence*
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Duration: 3+ years   |   SLA: always met   |   Retries: 0
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- **Architected** real-time data pipelines processing time-series workout data (Python · AWS Lambda · S3 · Airflow) — sub-2s inference latency at 10,000+ daily sessions
-- **Engineered** an LLM-powered Training Plan Generator (LangChain · Claude API) — athletes auto-generate personalized programs with predicted RPE, intensity and duration · **-90% planning time**
-- **Developed** an Automatic Interval Detection system using ML models — **96% accuracy** across 7+ training types · **100% manual tagging eliminated**
-- **Delivered** real-time Session AI Summaries with feature extraction and effort classification — **-70% coach analysis time** · athlete insights **×3**
+```
 
-</details>
-
-<details>
-<summary><b>💼 Data Engineer — Accenture, India</b> &nbsp;|&nbsp; Jan 2021 – Aug 2022</summary>
-
-<br>
-
-> *Enterprise data integration — Cisco × Salesforce CRM at scale*
-
-- **Designed** end-to-end ETL pipelines (Informatica PowerCenter) automating Cisco product/service data into Salesforce — **99% accuracy · 1M+ records**
-- **Built** Salesforce API workflows to manage Territories, Accounts, Opportunities and Users — **100% manual CRM entry eliminated** for 500+ users
-- **Implemented** proactive monitoring and auto-remediation scripts — **-60% incident resolution time · -40% production failures**
-- **Resolved** 15+ high-priority incidents/month (Jira · ServiceNow) — SLA compliance maintained at all times
-
-</details>
-
-<details>
-<summary><b>☁️ Data Engineer (AWS) — Cognizant, India</b> &nbsp;|&nbsp; Dec 2019 – Jan 2021</summary>
-
-<br>
-
-> *Cloud data engineering — AWS-native pipelines and Data Lake architecture*
-
-- **Deployed** ETL/ELT pipelines on AWS (Glue · PySpark · S3) from 5+ sources into a centralized Data Lake — **100% ingestion automation**
-- **Built** PySpark transformation jobs on AWS EMR — **2TB+ daily · +30% performance** via optimized partitioning
-- **Orchestrated** Glue · S3 · Redshift workflows via Apache Airflow DAGs — **99.5% pipeline reliability**
-- **Delivered** analytical dashboards via Athena & Redshift SQL — **-50% ad-hoc query time** across 3 business units
-
-</details>
-
----
-
-## `> github --stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayshik&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=FF9900)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYSHIK&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
-
-</div>
-
----
 
 ## `> education`
 
