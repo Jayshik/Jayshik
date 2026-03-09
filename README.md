@@ -1,17 +1,67 @@
-# Hi there, I’m **JAYESH KAUSHIK** 👋
+<div align="center">
 
-## 🚀 Data Engineer | AI & Cloud Data Enthusiast  
+```
+╔═══════════════════════════════════════════════════════════════╗
+║        TURNING RAW DATA INTO PRODUCTION-GRADE SYSTEMS         ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
+# Jayesh Kaushik Narayana Reddy
+
+**`Data Engineer · Big Data · AWS · Real-Time Pipelines`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh-kaushik)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh.narayana97@gmail.com)
+[![Location](https://img.shields.io/badge/Paris%2C_France-4A90D9?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🏗️ What I Do   
+## `> whoami`
+```
+╔══════════════════════════════════════════════════════════════╗
+║                  JAYESH · SYSTEM DASHBOARD                   ║
+╠══════════════════╦═══════════════════════════════════════════╣
+║  ROLE            ║  Data Engineer · Big Data · AWS           ║
+║  LOCATION        ║  Paris, France                            ║
+║  EXPERIENCE      ║  3+ years in production                   ║
+║  EDUCATION       ║  MSc Computer Science · EPITA · Bac+5     ║
+║  STACK           ║  Python · PySpark · Spark · Airflow · AWS ║
+║  PHILOSOPHY      ║  Bad pipelines fail silently. Mine don't  ║
+║  STATUS          ║  🟢 ONLINE · Available for new missions   ║
+╩══════════════════╩═══════════════════════════════════════════╩
 
-I’m a results-driven Data Engineer with 4+ years of experience designing **scalable AI-powered data pipelines** and **real-time analytics platforms** primarily on **AWS** and **Azure**. I turn complex data into actionable business insights with **automation**, **cloud-native design** and robust workflow orchestration. Passionate about building pipelines that power AI and enable data-driven innovation at scale.
+# Initializing Jayesh...
+# ✅ Pipeline architecture        [████████████████████] 100%
+# ✅ AWS cloud-native design      [████████████████████] 100%
+# ✅ Real-time data processing    [████████████████████] 100%
+# ✅ AI-powered data products     [████████████████████] 100%
+# ⚡ Ready for production.
+```
 
-I thrive working at the intersection of **big data engineering**, **machine learning infrastructure**, and **cloud automation**, constantly pushing the boundaries to deliver robust, efficient solutions for today’s digital businesses.
+> I don't just move data — I architect the systems that make products **think faster, scale further, and cost less.**
+>
+> From real-time AI pipelines handling **10,000+ sessions/day** at sub-2s latency,
+> to enterprise ETL workflows processing **1M+ records** across global CRM platforms —
+> every system I build is **observable, resilient, and production-grade from day one.**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-kaushik)
+---
+
+
+## `> impact --highlight`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  90%   reduction in athlete planning time (LLM pipeline)    │
+│  96%   ML detection accuracy across 7+ training types       │
+│  70%   faster coach analysis via real-time AI summaries     │
+│  60%   drop in incident resolution time (Accenture)         │
+│  30%   pipeline performance gain on AWS EMR / PySpark       │
+│  25%   cloud infrastructure cost reduction                  │
+└─────────────────────────────────────────────────────────────┘
+```
+
 
 ---
 
@@ -26,35 +76,86 @@ I thrive working at the intersection of **big data engineering**, **machine lear
 
 ---
 
-## 🌟 Professional Journey & Impact
 
-- 🚀 **Lead Data Engineer @ VEKTA (Apr 2024 – Oct 2024)**
-  - Architected real-time data pipelines capable of AI-powered personalized plan generation and analysis — delivering results in under 2 seconds using Python, SQL, Postgres, AWS Lambda, and Airflow.
-  - Launched an innovative **LLM-driven training planner**, cutting athlete plan creation time by 90%.
-  - Engineered automatic interval detection (96% accuracy), eliminating all manual tagging for 7+ sports.
-  - Released instant AI session summaries — helping coaches cut analysis time by 70% while tripling actionable insights for athletes.
+## `> experience --log`
 
-- 💼 **Data Engineer @ Accenture (Jan 2021 – Aug 2022)**
-  - Led Informatica ETL development for Salesforce integrations, automating territories, opportunities, accounts, and user management.
-  - Proactively built alerting and error-recovery (ServiceNow, Jira), slashing incident time by 60% and strengthening data quality.
-  - Collaborated closely with business owners and agile teams to improve and industrialize core CRM workflows.
+<details>
+<summary><b>🚀 Data & AI Engineer — Vekta, Paris</b> &nbsp;|&nbsp; Apr 2024 – Oct 2024</summary>
 
-- 🎓 **Data Engineer Intern @ Cognizant (Dec 2019 – Jan 2021)**
-  - Immersive hands-on upskilling: Python, SQL, PySpark, AWS (S3, Lambda), plus real-world tools like Airflow, Kafka, and Docker.
-  - Developed PySpark batch pipelines on Azure Databricks (30% faster processing).
-  - Supported production data pipelines — validating, monitoring, and rapidly resolving operational issues.
+<br>
+
+> *Sports tech startup — building AI-powered training intelligence*
+
+- **Architected** real-time data pipelines processing time-series workout data (Python · AWS Lambda · S3 · Airflow) — sub-2s inference latency at 10,000+ daily sessions
+- **Engineered** an LLM-powered Training Plan Generator (LangChain · Claude API) — athletes auto-generate personalized programs with predicted RPE, intensity and duration · **-90% planning time**
+- **Developed** an Automatic Interval Detection system using ML models — **96% accuracy** across 7+ training types · **100% manual tagging eliminated**
+- **Delivered** real-time Session AI Summaries with feature extraction and effort classification — **-70% coach analysis time** · athlete insights **×3**
+
+</details>
+
+<details>
+<summary><b>💼 Data Engineer — Accenture, India</b> &nbsp;|&nbsp; Jan 2021 – Aug 2022</summary>
+
+<br>
+
+> *Enterprise data integration — Cisco × Salesforce CRM at scale*
+
+- **Designed** end-to-end ETL pipelines (Informatica PowerCenter) automating Cisco product/service data into Salesforce — **99% accuracy · 1M+ records**
+- **Built** Salesforce API workflows to manage Territories, Accounts, Opportunities and Users — **100% manual CRM entry eliminated** for 500+ users
+- **Implemented** proactive monitoring and auto-remediation scripts — **-60% incident resolution time · -40% production failures**
+- **Resolved** 15+ high-priority incidents/month (Jira · ServiceNow) — SLA compliance maintained at all times
+
+</details>
+
+<details>
+<summary><b>☁️ Data Engineer (AWS) — Cognizant, India</b> &nbsp;|&nbsp; Dec 2019 – Jan 2021</summary>
+
+<br>
+
+> *Cloud data engineering — AWS-native pipelines and Data Lake architecture*
+
+- **Deployed** ETL/ELT pipelines on AWS (Glue · PySpark · S3) from 5+ sources into a centralized Data Lake — **100% ingestion automation**
+- **Built** PySpark transformation jobs on AWS EMR — **2TB+ daily · +30% performance** via optimized partitioning
+- **Orchestrated** Glue · S3 · Redshift workflows via Apache Airflow DAGs — **99.5% pipeline reliability**
+- **Delivered** analytical dashboards via Athena & Redshift SQL — **-50% ad-hoc query time** across 3 business units
+
+</details>
 
 ---
 
-**Key Takeaway:**  
-At every step, I blend automation-first engineering, modern cloud architecture, and a passion for AI/data innovation — driving robust, scalable, and business-critical analytics solutions.
+## `> github --stats`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayshik&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=FF9900)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAYSHIK&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E)
+
+</div>
 
 ---
 
+## `> education`
 
+| Degree | Institution | Year |
+|--------|------------|------|
+| **MSc Computer Science — Data Science & Analytics** `Bac+5` | EPITA, Paris 🇫🇷 | 2022 – 2025 |
+| **BEng Electronics & Communication** `Bac+3` | KCT, India 🇮🇳 | 2017 – 2020 |
 
-## 🎯 My Passion  
-I’m passionate about **building robust, scalable, and cost-efficient data solutions** that power AI-driven applications and business intelligence.  
-I thrive in solving **complex data challenges**, optimizing cloud resources, and enabling **real-time analytics at scale**.  
+---
 
-📩 **Let’s connect and discuss cutting-edge data solutions!**  
+## `> connect`
+
+```bash
+$ curl -X POST https://linkedin.com/jayesh-kaushik\
+  -d '{"message": "Lets talk data engineering 🚀"}'
+```
+
+<div align="center">
+
+*"Bad data pipelines don't fail loudly — they fail silently.*
+*That's why I build them to be observable, reliable, and production-grade from day one."*
+
+</div>
+
+---
